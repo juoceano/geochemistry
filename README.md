@@ -15,6 +15,8 @@ Dia/Horário das aulas: Segundas-feiras 13:00 - 15:45 Sala XXX (teóricas) NEA (
 
 Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 
+Homepage: http://juoceano.github.io/geochemistry
+
 ## 1. Ementa:
 Estudo da distribuição dos elementos químicos na litosfera. Leis que controlam seu comportamento nos ambientes geológicos. Geoquímica como instrumental para estudo dos processos petrogenéticos. Principais técnicas analíticas e suas utilizações na geologia. Introdução a prospecção geoquímica.
 
@@ -27,7 +29,7 @@ a) aulas de laboratório;
 b) aulas expositvas; e 
 c) saída de campo.
 
-##NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.## 
+##NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
 ## 4. Avaliações
 a) relatório de campo e descrição da área de estudo (10%);
@@ -64,18 +66,18 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 05   | 30 março| Legislação (teórica)                 |Leitura 5 |                      |
 | 06   | 06 abril| Preparação para o campo (prática)    |          |                      |
 | 07   | 13 abril| Trabalho de campo                    |          |                      |
-| 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |Relatório 1           |
+| 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
 | 09   | 27 abril| Cromatografia iônica (prática)       |          |                      |
-| 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |Relatório 2           |
-| 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |Relatório 3           |
-| 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |Relatório 4           |
-| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|Relatório 5           |
-| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |Relatório 6           |
+| 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
 | 15   | 08 junho| Apresentação dos dados               |Leitura   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
 | 16   | 15 junho| Tratamento dos dados                 |Leitura   |                      |
 | 17   | 22 junho| Tratamento dos dados (cont.)         |Leitura   |                      |
 | 18   | 29 junho| APRESENTAÇÃO FINAL                   |          |Apresentação/Discussão|
-| 19   | 06 julho| Entrega do relatório                 |          |Relatório final       |
+| 19   | 06 julho| Entrega do relatório                 |          |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)       |
 
 <!--Leitura 1= cronograma
 Leitura 2= coleta e apresentação de amostras
