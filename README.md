@@ -64,7 +64,7 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 05   | 30 março| Legislação (teórica)                 |Leitura 5 |                      |
 | 06   | 06 abril| Preparação para o campo (prática)    |          |                      |
 | 07   | 13 abril| Trabalho de campo                    |          |                      |
-| 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |Relatório 1           |
+| 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
 | 09   | 27 abril| Cromatografia iônica (prática)       |          |                      |
 | 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |Relatório 2           |
 | 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |Relatório 3           |
