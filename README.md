@@ -66,11 +66,11 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 07   | 13 abril| Trabalho de campo                    |          |                      |
 | 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
 | 09   | 27 abril| Cromatografia iônica (prática)       |          |                      |
-| 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |Relatório 2           |
-| 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |Relatório 3           |
-| 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |Relatório 4           |
-| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|Relatório 5           |
-| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |Relatório 6           |
+| 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
 | 15   | 08 junho| Apresentação dos dados               |Leitura   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
 | 16   | 15 junho| Tratamento dos dados                 |Leitura   |                      |
 | 17   | 22 junho| Tratamento dos dados (cont.)         |Leitura   |                      |
