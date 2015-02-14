@@ -57,8 +57,8 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 
 ## 7. Cronograma
 
-| Aula | Data    | Conteúdo                             |Leitura   | Atividade Avaliada   |
-|:----:|:--------|:-------------------------------------|:---------|---------------------:|
+| Aula | Data    | Conteúdo                             |Leitura | Atividade Avaliada   |
+|:----:|:--------|:-------------------------------------|:-------|---------------------:|
 | 01   | 02 março| Apresentação da disciplina (teórica) |[Texto 1](https://github.com/juoceano/geochemistry/raw/master/README.pdf) |                      |
 | 02   | 09 março| Coleta de amostras (teórica)         |Texto 2 |                      |
 | 03   | 16 março| Controle de qualidade                |Texto 3 |                      |
