@@ -1,3 +1,4 @@
+\RequirePackage{fix-cm}  % Fix Font shape `OT1/cmr/m/n' size substitution.
 %-----------------------------------------------------------------------------%
 %	Packages & Other Configurations
 %-----------------------------------------------------------------------------%
@@ -8,10 +9,11 @@
 \usepackage{setspace} % command \doublespacing etc...
 \usepackage{lineno} % number lines
 \usepackage{epsf,epsfig} % includegraphics [pdf, png etc]
-\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft% 
+\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft%
 \usepackage{textcomp} %símbolos de texto
 \usepackage{natbib} % bibtex - adicionar referencia
 % \usepackage{url} % for bibtex - configuracoes de urls
+\usepackage[hidelinks]{hyperref}  % Add URL links.
 \usepackage{tabularx}
 
 %-----------------------------------------------------------------------------%
@@ -37,10 +39,10 @@
   /Producer (Ju Leonel)
   /Subject  (Geoquímica - Aulas Praticas)
   /Keywords (geoquímica, relatórios de aulas práticas)}
-  
+
 %-----------------------------------------------------------------------------%
 %	Documento
-%-----------------------------------------------------------------------------%  
+%-----------------------------------------------------------------------------%
 \title{GEO117 - Práticas de Geoquímica - IGEO-UFBA}
 \author{\vspace{-10ex}}
 \date{\vspace{-10ex}}
@@ -54,61 +56,61 @@
   \begin{tabular*} {0.9\textwidth}{@{\extracolsep{\fill} } l l}
     \hline
     Professora: Juliana Leonel & Atendimento: Sextas-feiras \\
-    E-mail: jleonel@ufba.br & Horário atendimento: 13:00-14:00 \\
+    E-mail: \href{mailto:jleonel@ufba.br}{jleonel@ufba.br} & Horário atendimento: 13:00-14:00 \\
     Aulas: Segundas-feiras & Local atendimento: IGEO - Sala 10 - 2\textsuperscript{o} andar\\
-    Horário- Aulas: 13:00 - 15:45 & Homepage: http://juoceano.github.io/geochemistry\\
+    Horário- Aulas: 13:00 - 15:45 & Homepage: \url{http://juoceano.github.io/geochemistry}\\
     \hline
   \end{tabular*}
 
   \vspace{3ex}
-   
+
   \centerline{ \textbf{Relatórios 2-6: Atividades das Aulas Práticas}}
 
-  No presente relatório deverão ser descritas, de forma simples e concisa, as atidades realizadas nas aulas práticas. 
+  No presente relatório deverão ser descritas, de forma simples e concisa, as atidades realizadas nas aulas práticas.
 
-  
+
   \section* {1. Formatação}
     \noindent
-  
+
     a) RELATÓRIOS 2 à 6 DEVEM SER MANUSCRITOS;
-    
+
     b) Não há necessidade de capa.
-  
-  
+
+
   \section* {2. Conteúdo }
     \noindent
-   
-    a) Título do trabalho; 
-    
+
+    a) Título do trabalho;
+
     b) Identificação dos membros do grupo;
-  
+
     c) Objetivo da aula prática;
-  
+
     d) Princípio da análise realizada/demonstrada;
-    
+
     e) Descrição sucinta das atividades realizadas;
-  
-    f) Lista de referências bibliográficas usadas ao longo do texto. 
-  
+
+    f) Lista de referências bibliográficas usadas ao longo do texto.
+
    \section* {3. Avaliação}
-  
+
     Abaixo estão listados alguns dos critérios de avaliação do trabalho.
-    
-    \textbf{1. Estrutura:} o trabalhho seguiu a formatação requisitada? Há lógica na apresentação e desenvolvimento das idéias? 
-    
+
+    \textbf{1. Estrutura:} o trabalhho seguiu a formatação requisitada? Há lógica na apresentação e desenvolvimento das idéias?
+
     \textbf{2. Clareza:} as sentenças são concisas? O vocabulário usado é preciso? O leitor lê o texto facilmente e entende as ideias apresentadas pelos autores sem esforço?
-    
-    \textbf{3. Grafia:} há erros de gráfia, gramática ou pontuação? 
-    
-    \textbf{4. Referencias bibligráficas:} as referências bibliográficas são corretamente citadas ao longo do texto? Todas as referências citadas no texto estão presentes na lista de bibliografia? 
-    
-    \textbf{5. Relevância das informações:} todas as informações presentes tem relevância para o trabalho ou algumas (ou muitas) foram usadas apenas para aumentar o tamanho do texto? 
-    
-   \textbf{6. Entendimento sobre o assunto:} o texto mostra conhecimento profundo e robusto por partes dos autores sobre o assunto? 
-  
+
+    \textbf{3. Grafia:} há erros de gráfia, gramática ou pontuação?
+
+    \textbf{4. Referencias bibligráficas:} as referências bibliográficas são corretamente citadas ao longo do texto? Todas as referências citadas no texto estão presentes na lista de bibliografia?
+
+    \textbf{5. Relevância das informações:} todas as informações presentes tem relevância para o trabalho ou algumas (ou muitas) foram usadas apenas para aumentar o tamanho do texto?
+
+   \textbf{6. Entendimento sobre o assunto:} o texto mostra conhecimento profundo e robusto por partes dos autores sobre o assunto?
+
   \clearpage %termina o texto e tudo que estiver flutuante se encaixa ali
 %\newpage % começa uma nova página
 %\bibliographystyle{chicago} % estilo que vai sair a bibliografia (posso usar outros)
-%\bibliography{references_ju} %entre chaves vai o nome do arquivo de referencias 
+%\bibliography{references_ju} %entre chaves vai o nome do arquivo de referencias
 
 \end{document}
