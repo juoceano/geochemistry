@@ -59,23 +59,23 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 
 | Aula | Data    | Conteúdo                             |Leitura   | Atividade Avaliada   |
 |:----:|:--------|:-------------------------------------|:---------|---------------------:|
-| 01   | 02 março| Apresentação da disciplina (teórica) |[Leitura 1](https://github.com/juoceano/geochemistry/raw/master/README.pdf) |                      |
-| 02   | 09 março| Coleta de amostras (teórica)         |Leitura 2 |                      |
-| 03   | 16 março| Controle de qualidade                |Leitura 3 |                      |
-| 04   | 23 março| Métodos analíticos (teórica)         |Leitura 4 |                      |
-| 05   | 30 março| Legislação (teórica)                 |Leitura 5 |                      |
+| 01   | 02 março| Apresentação da disciplina (teórica) |[Texto 1](https://github.com/juoceano/geochemistry/raw/master/README.pdf) |                      |
+| 02   | 09 março| Coleta de amostras (teórica)         |Texto 2 |                      |
+| 03   | 16 março| Controle de qualidade                |Texto 3 |                      |
+| 04   | 23 março| Métodos analíticos (teórica)         |Texto 4 |                      |
+| 05   | 30 março| Legislação (teórica)                 |Texto 5 |                      |
 | 06   | 06 abril| Preparação para o campo (prática)    |          |                      |
 | 07   | 13 abril| Trabalho de campo                    |          |                      |
-| 08   | 20 abril| Cromatografia iônica (teórica)       |Leitura 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
+| 08   | 20 abril| Cromatografia iônica (teórica)       |Texto 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
 | 09   | 27 abril| Cromatografia iônica (prática)       |          |                      |
-| 10   | 04 maio | Digestão de amostras (prática)       |Leitura 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 11   | 11 maio | Análise de metais (prática)          |Leitura 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 15   | 08 junho| Apresentação dos dados               |Leitura   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
-| 16   | 15 junho| Tratamento dos dados                 |Leitura   |                      |
-| 17   | 22 junho| Tratamento dos dados (cont.)         |Leitura   |                      |
+| 10   | 04 maio | Digestão de amostras (prática)       |Texto 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 11   | 11 maio | Análise de metais (prática)          |Texto 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 12   | 19 maio | Análise granulométrica (prática)     |Texto 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Texto 10|[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Texto   |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 15   | 08 junho| Apresentação dos dados               |Texto   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
+| 16   | 15 junho| Tratamento dos dados                 |Texto   |                      |
+| 17   | 22 junho| Tratamento dos dados (cont.)         |Texto   |                      |
 | 18   | 29 junho| APRESENTAÇÃO FINAL                   |          |Apresentação/Discussão|
 | 19   | 06 julho| Entrega do relatório                 |          |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)       |
 
