@@ -75,7 +75,7 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 16   | 15 junho| Tratamento dos dados                 |Leitura   |                      |
 | 17   | 22 junho| Tratamento dos dados (cont.)         |Leitura   |                      |
 | 18   | 29 junho| APRESENTAÇÃO FINAL                   |          |Apresentação/Discussão|
-| 19   | 06 julho| Entrega do relatório                 |          |Relatório final       |
+| 19   | 06 julho| Entrega do relatório                 |          |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)       |
 
 <!--Leitura 1= cronograma
 Leitura 2= coleta e apresentação de amostras
