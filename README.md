@@ -59,7 +59,7 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 
 | Aula | Data    | Conteúdo                             |Leitura   | Atividade Avaliada   |
 |:----:|:--------|:-------------------------------------|:---------|---------------------:|
-| 01   | 02 março| Apresentação da disciplina (teórica) |Leitura 1 |                      |
+| 01   | 02 março| Apresentação da disciplina (teórica) |[Leitura 1](https://github.com/juoceano/geochemistry/raw/master/README.pdf) |                      |
 | 02   | 09 março| Coleta de amostras (teórica)         |Leitura 2 |                      |
 | 03   | 16 março| Controle de qualidade                |Leitura 3 |                      |
 | 04   | 23 março| Métodos analíticos (teórica)         |Leitura 4 |                      |
