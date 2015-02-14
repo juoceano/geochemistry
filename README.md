@@ -71,7 +71,7 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 12   | 19 maio | Análise granulométrica (prática)     |Leitura 9 |Relatório 4           |
 | 13   | 26 maio | Cromatrografia gasosa  (prática)     |Leitura 10|Relatório 5           |
 | 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Leitura   |Relatório 6           |
-| 15   | 08 junho| Apresentação dos dados               |Leitura   |Projeto               |
+| 15   | 08 junho| Apresentação dos dados               |Leitura   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
 | 16   | 15 junho| Tratamento dos dados                 |Leitura   |                      |
 | 17   | 22 junho| Tratamento dos dados (cont.)         |Leitura   |                      |
 | 18   | 29 junho| APRESENTAÇÃO FINAL                   |          |Apresentação/Discussão|
