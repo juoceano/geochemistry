@@ -21,13 +21,22 @@ Homepage: http://juoceano.github.io/geochemistry
 Estudo da distribuição dos elementos químicos na litosfera. Leis que controlam seu comportamento nos ambientes geológicos. Geoquímica como instrumental para estudo dos processos petrogenéticos. Principais técnicas analíticas e suas utilizações na geologia. Introdução a prospecção geoquímica.
 
 ## 2. Objetivos:
-a) apresentar ao aluno as principais técnicas de coleta de matrizes ambientais, bem como as formas de processamento e análise geoquímica dessas amostras;
-b) desenolver o pensamento crítico na análise de dados ambientais através da interpretação dos resultados gerados na sala de aula.
+
+O objetivo de GEO 117 é apresentar aos alunos:
+a) as principais técnicas de coleta de matrizes ambientais, bem como formas de processamento e análise geoquímica dessas amostras;
+b) como obter medidas físico-químicas em campo;
+c) como tratar e interpretar dados ambientais;
+d) como desenvolver o pensamento crítico na análise de dados ambientais usando os dados gerados durante as aulas;
+e) como escrever um projeto em geoquímica ambiental.
 
 ## 3. Metodologia das Aulas: 
 a) aulas de laboratório;  
 b) aulas expositvas; e 
 c) saída de campo.
+
+Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
+
+Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
 ##NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
