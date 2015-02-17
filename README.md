@@ -42,11 +42,12 @@ b) aulas expositvas; e
 
 c) saída de campo.
 
+### NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
+
 Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
 
 Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
-### NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
 ## 4. Avaliações
 
