@@ -46,7 +46,7 @@ Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam
 
 Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
-##NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
+### NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
 ## 4. Avaliações
 
@@ -73,8 +73,6 @@ Cuidado com cópias (plágio)! Trabalhos que forem cópias (integral ou parcial)
 ## 6. Bibliografia recomendada:
 
 Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moderna e o Meio Ambiente. Bokkman, 5 edição.
-
-
 
 ## 7. Cronograma
 
