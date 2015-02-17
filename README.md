@@ -49,6 +49,7 @@ Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles s�
 ##NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
 ## 4. Avaliações
+
 a) relatório de campo e descrição da área de estudo (10%);
 
 b) relatório manuscritos das aulas práticas (25%);
@@ -62,12 +63,15 @@ e) apresentação final e discussão dos dados gerados durante as aulas (25%).
 ## 5. Conduta
 
 ### Assiduidade: 
+
 Será cobrada presença em sala de aula durante a aula prática atráves da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (Teórica, Prática) é 25.
 
 ### Atividades: 
+
 Cuidado com cópias (plágio)! Trabalhos que forem cópias (integral ou parcial) do trabalho de colegas ou de outras fontes sem referencia desta (livros, artigos, material da internet) serão desconsiderados na hora da correção recebendo nota zero.
 
 ## 6. Bibliografia recomendada:
+
 Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moderna e o Meio Ambiente. Bokkman, 5 edição.
 
 
