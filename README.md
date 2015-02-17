@@ -23,15 +23,23 @@ Estudo da distribuição dos elementos químicos na litosfera. Leis que controla
 ## 2. Objetivos:
 
 O objetivo de GEO 117 é apresentar aos alunos:
-a) as principais técnicas de coleta de matrizes ambientais, bem como formas de processamento e análise geoquímica dessas amostras;  
-b) como obter medidas físico-químicas em campo;  
-c) como tratar e interpretar dados ambientais;  
-d) como desenvolver o pensamento crítico na análise de dados ambientais usando os dados gerados durante as aulas;  
+
+a) as principais técnicas de coleta de matrizes ambientais, bem como formas de processamento e análise geoquímica dessas amostras;
+
+b) como obter medidas físico-químicas em campo;
+
+c) como tratar e interpretar dados ambientais;
+
+d) como desenvolver o pensamento crítico na análise de dados ambientais usando os dados gerados durante as aulas;
+
 e) como escrever um projeto em geoquímica ambiental. 
 
 ## 3. Metodologia das Aulas: 
-a) aulas de laboratório;  
-b) aulas expositvas; e  
+
+a) aulas de laboratório;
+
+b) aulas expositvas; e
+
 c) saída de campo.
 
 Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
