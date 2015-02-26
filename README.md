@@ -11,7 +11,7 @@ Professora: Juliana Leonel
 
 E-mail: jleonel@ufba.br
 
-Dia/Horário das aulas: Segundas-feiras 13:00 - 15:45 Sala XXX (teóricas) NEA (práticas)
+Dia/Horário das aulas: Segundas-feiras 13:00 - 15:45 Sala 102C (teóricas) NEA (práticas)
 
 Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 
@@ -44,7 +44,7 @@ c) saída de campo.
 
 ### NAS AULAS DE LABORATÓRIO É OBRIGATÓRIO O USO DE JALECO, CALÇA COMPRIDA E SAPATO FECHADO. ALUNOS QUE NÃO APRESENTAREM A VESTIMENTA CORRETA NÃO PODERÃO PERMANECER EM AULA.
 
-Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
+Eu encorajo vocês a perguntarem durante as aulas, especialmente se não antederem o assunto que está em discussão. Os principais tópicos serão apresentados/discutidos em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
 
 Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
@@ -65,7 +65,7 @@ e) apresentação final e discussão dos dados gerados durante as aulas (25%).
 
 ### Assiduidade: 
 
-Será cobrada presença em sala de aula durante a aula prática atráves da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (Teórica, Prática) é 25.
+Será cobrada presença em sala de aula durante a aula prática através da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (teórica + prática) é 25.
 
 ### Atividades: 
 
@@ -84,20 +84,20 @@ Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moder
 | 03   | 16 março| Controle de qualidade                |Texto 3 |                      |
 | 04   | 23 março| Métodos analíticos (teórica)         |Texto 4 |                      |
 | 05   | 30 março| Legislação (teórica)                 |Texto 5 |                      |
-| 06   | 06 abril| Preparação para o campo (prática)    |          |                      |
-| 07   | 13 abril| Trabalho de campo                    |          |                      |
+| 06   | 06 abril| Preparação para o campo (prática)    |        |                      |
+| 07   | 13 abril| Trabalho de campo                    |        |                      |
 | 08   | 20 abril| Cromatografia iônica (teórica)       |Texto 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
-| 09   | 27 abril| Cromatografia iônica (prática)       |          |                      |
-| 10   | 04 maio | Digestão de amostras (prática)       |Texto 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 09   | 27 abril| Cromatografia iônica (prática)       |        |                      |
+| 10   | 04 maio | Digestão de amostras (prática)       |Texto 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatórios2_5.pdf)           |
 | 11   | 11 maio | Análise de metais (prática)          |Texto 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
 | 12   | 19 maio | Análise granulométrica (prática)     |Texto 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 13   | 26 maio | Cromatrografia gasosa  (prática)     |Texto 10|[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 14   | 01 junho| APRESENTAÇÃO DO PROJETO              |Texto   |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 15   | 08 junho| Apresentação dos dados               |Texto   |[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
-| 16   | 15 junho| Tratamento dos dados                 |Texto   |                      |
-| 17   | 22 junho| Tratamento dos dados (cont.)         |Texto   |                      |
-| 18   | 29 junho| APRESENTAÇÃO FINAL                   |          |Apresentação/Discussão|
-| 19   | 06 julho| Entrega do relatório                 |          |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)       |
+| 13   | 26 maio | APRESENTAÇÃO DO PROJETO              |        |[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 14   | 01 junho| Apresentação dos dados               |        |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
+| 15   | 08 junho| Tratamento dos dados                 |Testo 10|[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
+| 16   | 15 junho| Tratamento dos dados (cont.)         |        |                      |
+| 17   | 22 junho| APRESENTAÇÃO FINAL                   |        |Apresentação/Discussão                      |
+| 18   | 29 junho| Entrega do relatório                 |        |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)|
+| 19   | 06 julho| Encerramento da disciplina           |        |                      |
 
 <!--Leitura 1= cronograma
 Leitura 2= coleta e apresentação de amostras
