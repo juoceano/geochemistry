@@ -71,9 +71,19 @@ Será cobrada presença em sala de aula durante a aula prática através da cham
 
 Cuidado com cópias (plágio)! Trabalhos que forem cópias (integral ou parcial) do trabalho de colegas ou de outras fontes sem referencia desta (livros, artigos, material da internet) serão desconsiderados na hora da correção recebendo nota zero.
 
-## 6. Bibliografia recomendada:
+## 6. Bibliografia sugerida:
 
-Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moderna e o Meio Ambiente. Bokkman, 5 edição.
+Atkins, P. & Jones, L. (2012) Princípio de Química - Questionando a Vida Moderna e o Meio Ambiente. Bokman, 5 Edição.
+
+Baird, C. & Cann, M. (2011). Química Ambiental. Bookman, 4 Edição.
+
+Batista Neto, J.A., Wallner-Kersanach, M ., Patchineelam, S.M. (2008) Poluição Marinha. Interciência.
+
+Clark, R. T. 1994. Marine pollution. Claredon Press, Oxford, 5 Edição.
+
+Grasshoff, K. (2007). Methods of seawater analysis. WILEY-VCH Verlag GmbH, 3 Edição.
+
+Kennish. M.J. (1997). Practical handbook of estuarine and marine pollution. CRC Marine Science.
 
 ## 7. Cronograma
 
