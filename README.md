@@ -96,14 +96,14 @@ Kennish. M.J. (1997). Practical handbook of estuarine and marine pollution. CRC 
 | 05   | 30 março| Legislação (teórica)                 |Texto 5 |                      |
 | 06   | 06 abril| Preparação para o campo (prática)    |        |                      |
 | 07   | 13 abril| Trabalho de campo                    |        |                      |
-| 08   | 20 abril| Cromatografia iônica (teórica)       |Texto 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)           |
+| 08   | 20 abril| Cromatografia iônica (teórica)       |Texto 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)        |
 | 09   | 27 abril| Cromatografia iônica (prática)       |        |                      |
-| 10   | 04 maio | Digestão de amostras (prática)       |Texto 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatórios2_5.pdf)           |
-| 11   | 11 maio | Análise de metais (prática)          |Texto 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 12   | 19 maio | Análise granulométrica (prática)     |Texto 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 13   | 26 maio | APRESENTAÇÃO DO PROJETO              |        |[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 14   | 01 junho| Apresentação dos dados               |        |[Relatório 6](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_6.pdf)           |
-| 15   | 08 junho| Tratamento dos dados                 |Testo 10|[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)               |
+| 10   | 04 maio | Digestão de amostras (prática)       |Texto 7 |[Relatório 2](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_5.pdf)     |
+| 11   | 11 maio | Análise de metais (prática)          |Texto 8 |[Relatório 3](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_5.pdf)     |
+| 12   | 19 maio | Análise granulométrica (prática)     |Texto 9 |[Relatório 4](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_5.pdf)     |
+| 13   | 26 maio | APRESENTAÇÃO DO PROJETO              |        |                      |
+| 14   | 01 junho| Apresentação dos dados               |        |[Relatório 5](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorios2_5.pdf)     |
+| 15   | 08 junho| Tratamento dos dados                 |Testo 10|[Projeto](https://github.com/juoceano/geochemistry/raw/master/evaluations/Projeto.pdf)           |
 | 16   | 15 junho| Tratamento dos dados (cont.)         |        |                      |
 | 17   | 22 junho| APRESENTAÇÃO FINAL                   |        |Apresentação/Discussão                      |
 | 18   | 29 junho| Entrega do relatório                 |        |[Relatório final](https://github.com/juoceano/geochemistry/raw/master/evaluations/RelatorioFinal.pdf)|
