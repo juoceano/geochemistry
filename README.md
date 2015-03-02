@@ -11,7 +11,7 @@ Professora: Juliana Leonel
 
 E-mail: jleonel@ufba.br
 
-Dia/Horário das aulas: Segundas-feiras 13:00 - 15:45 Sala 102C (teóricas) NEA (práticas)
+Dia/Horário das aulas: Segundas-feiras 09:45 - 12:30 Sala 102C (teóricas) NEA (práticas)
 
 Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 
