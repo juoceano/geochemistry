@@ -1,0 +1,86 @@
+\RequirePackage{fix-cm}  % Fix Font shape `OT1/cmr/m/n' size substitution.
+%-----------------------------------------------------------------------------%
+%	Packages & Other Configurations
+%-----------------------------------------------------------------------------%
+\documentclass[a4paper,10pt]{article}
+\usepackage[top=1in, bottom=0.6in, left=1in, right=0.9in]{geometry}
+
+\usepackage[utf8]{inputenc} %add acents
+\usepackage{setspace} % command \doublespacing etc...
+\usepackage{lineno} % number lines
+\usepackage{epsf,epsfig} % includegraphics [pdf, png etc]
+\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft%
+\usepackage{textcomp} %símbolos de texto
+\usepackage{natbib} % bibtex - adicionar referencia
+% \usepackage{url} % for bibtex - configuracoes de urls
+\usepackage[hidelinks]{hyperref}  % Add URL links.
+\usepackage{tabularx}
+
+%-----------------------------------------------------------------------------%
+%	Adicionar a Watermark
+%-----------------------------------------------------------------------------%
+\usepackage{draftwatermark}
+\SetWatermarkAngle{45}
+\SetWatermarkLightness{0.9}
+\SetWatermarkFontSize{5cm}
+\SetWatermarkScale{0.5}
+\SetWatermarkText{Texto 2}
+
+% \usepackage[bookmarks=false,colorlinks=true,urlcolor={green},linkcolor={green},pdfstartview={XYZ null null 1.22}]{hyperref} %all references
+
+%-----------------------------------------------------------------------------%
+%	Informações sobre o PDF
+%-----------------------------------------------------------------------------%
+
+\pdfinfo{%
+  /Title    (GEO117 - Texto 2)
+  /Author   (Ju Leonel)
+  /Creator  (Ju Leonel)
+  /Producer (Ju Leonel)
+  /Subject  (Geoquímica - Aulas Praticas)
+  /Keywords (geoquímica, testo 2)}
+
+%-----------------------------------------------------------------------------%
+%	Documento
+%-----------------------------------------------------------------------------%
+\title{GEO117 - Práticas de Geoquímica - IGEO-UFBA}
+\author{\vspace{-10ex}}
+\date{\vspace{-10ex}}
+
+\begin{document}
+
+  \maketitle
+  %\doublespacing
+  \onehalfspace
+
+  \begin{tabular*} {0.9\textwidth}{@{\extracolsep{\fill} } l l}
+    \hline
+    Professora: Juliana Leonel & Atendimento: Sextas-feiras \\
+    E-mail: \href{mailto:jleonel@ufba.br}{jleonel@ufba.br} & Horário atendimento: 13:00-14:00 \\
+    Aulas: Segundas-Feiras & Local atendimento: IGEO - Sala 10 - 2\textsuperscript{o} andar\\
+    Horário- Aulas: 09:45 - 12:30  & Homepage: \url{http://juoceano.github.io/geochemistry}\\
+    \hline
+  \end{tabular*}
+  
+ \vspace{3ex}
+
+    \section*{\centerline{\textbf{Texto 2 - Práticas de Geoquímica}}}
+
+    \noindent
+
+    Calazans, D. (2011). Estudos Oceanográficos: do Instrumental ao Prático. Editora Textos, 465 pg.
+    (disponível em \url {http://www.oceano.furg.br/sistema/upload_php/estudos_oceanograficos.pdf})
+
+    \begin{itemize}
+      \item[a)] Capítulo 6 - Oceanografia Química;
+      
+      \item[b)] Capítulo 7 - Oceanografia Geológica;
+      
+    \end{itemize}
+
+%\clearpage %termina o texto e tudo que estiver flutuante se encaixa ali
+
+%\bibliographystyle{chicago} % estilo que vai sair a bibliografia (posso usar outros)
+%\bibliography{references_ju} %entre chaves vai o nome do arquivo de referencias
+
+\end{document}
