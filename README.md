@@ -90,7 +90,7 @@ Kennish. M.J. (1997). Practical handbook of estuarine and marine pollution. CRC 
 | Aula | Data    | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:--------|:-------------------------------------|:-------|---------------------:|
 | 01   | 02 março| Apresentação da disciplina (teórica) |[Texto 1](https://github.com/juoceano/geochemistry/raw/master/README.pdf) |                      |
-| 02   | 09 março| Coleta de amostras (teórica)         |Texto 2 |                      |
+| 02   | 09 março| Coleta de amostras (teórica)         |[Texto 2](https://github.com/juoceano/geochemistry/raw/master/chapters/Texto2.pdf)|                      |
 | 03   | 16 março| Controle de qualidade                |Texto 3 |                      |
 | 04   | 23 março| Métodos analíticos (teórica)         |Texto 4 |                      |
 | 05   | 30 março| Legislação (teórica)                 |Texto 5 |                      |
