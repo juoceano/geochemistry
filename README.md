@@ -1,7 +1,3 @@
-<!--pandoc -V geometry:margin=1in --from markdown_github README.md -o README.pdf 
---latex-engine=xelatex -V geometry:margin=1in --smart --normalize --standalone --webtex -->
-
-
 # Plano de Aula #
 # GEO117 Práticas de Geoquímica - IGEO-UFBA #
 
