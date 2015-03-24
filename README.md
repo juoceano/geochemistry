@@ -93,7 +93,7 @@ Kennish. M.J. (1997). Practical handbook of estuarine and marine pollution. CRC 
 | 02   | 09 março| [Coleta de amostras](https://github.com/juoceano/geochemistry/raw/master/classes/Geoquimica_Aula02_Amostragem(CC).pdf) |[Texto 2](https://github.com/juoceano/geochemistry/raw/master/chapters/Texto2.pdf)|                      |
 | 03   | 16 março| [Controle de qualidade (teórica)](https://github.com/juoceano/geochemistry/raw/master/classes/Geoquimica_Aula03_ControleQualidade(CC).pdf)               |[Texto 3](https://github.com/juoceano/geochemistry/raw/master/chapters/Texto3.pdf) |                      |
 | 04   | 23 março| Métodos analíticos (teórica)         |        |                      |
-| 05   | 30 março| Legislação (teórica)                 |Texto 5 |                      |
+| 05   | 30 março| Legislação (teórica)                 |[Texto 4](https://github.com/juoceano/geochemistry/raw/master/chapters/CONAMA357_05.pdf) |                      |
 | 06   | 06 abril| Preparação para o campo (prática)    |        |                      |
 | 07   | 13 abril| Trabalho de campo                    |        |                      |
 | 08   | 20 abril| Cromatografia iônica (teórica)       |Texto 6 |[Relatório 1](https://github.com/juoceano/geochemistry/raw/master/evaluations/Relatorio1.pdf)        |
